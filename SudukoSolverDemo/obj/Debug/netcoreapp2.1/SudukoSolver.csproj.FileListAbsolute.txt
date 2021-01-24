@@ -1,0 +1,12 @@
+D:\Github\SudukoSolverDemo\SudukoSolverDemo\bin\Debug\netcoreapp2.1\SudukoSolver.deps.json
+D:\Github\SudukoSolverDemo\SudukoSolverDemo\bin\Debug\netcoreapp2.1\SudukoSolver.runtimeconfig.json
+D:\Github\SudukoSolverDemo\SudukoSolverDemo\bin\Debug\netcoreapp2.1\SudukoSolver.runtimeconfig.dev.json
+D:\Github\SudukoSolverDemo\SudukoSolverDemo\bin\Debug\netcoreapp2.1\SudukoSolver.dll
+D:\Github\SudukoSolverDemo\SudukoSolverDemo\bin\Debug\netcoreapp2.1\SudukoSolver.pdb
+D:\Github\SudukoSolverDemo\SudukoSolverDemo\obj\Debug\netcoreapp2.1\SudukoSolver.csproj.AssemblyReference.cache
+D:\Github\SudukoSolverDemo\SudukoSolverDemo\obj\Debug\netcoreapp2.1\SudukoSolver.AssemblyInfoInputs.cache
+D:\Github\SudukoSolverDemo\SudukoSolverDemo\obj\Debug\netcoreapp2.1\SudukoSolver.AssemblyInfo.cs
+D:\Github\SudukoSolverDemo\SudukoSolverDemo\obj\Debug\netcoreapp2.1\SudukoSolver.csproj.CoreCompileInputs.cache
+D:\Github\SudukoSolverDemo\SudukoSolverDemo\obj\Debug\netcoreapp2.1\SudukoSolver.dll
+D:\Github\SudukoSolverDemo\SudukoSolverDemo\obj\Debug\netcoreapp2.1\SudukoSolver.pdb
+D:\Github\SudukoSolverDemo\SudukoSolverDemo\obj\Debug\netcoreapp2.1\SudukoSolver.genruntimeconfig.cache
